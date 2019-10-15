@@ -2,6 +2,10 @@
 
 Development web app for generate domains name with Vue.JS
 
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/27c5810f-9f9a-495a-b33c-30247d9fe6ac/deploy-status)](https://app.netlify.com/sites/lucasnamegator/deploys)
+
 ## Project setup
 
 ```
