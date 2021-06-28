@@ -2535,10 +2535,10 @@ color-name@~1.1.4:
   resolved "https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz"
   integrity sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==
 
-color-string@^1.5.2:
-  version "1.5.3"
-  resolved "https://registry.npmjs.org/color-string/-/color-string-1.5.3.tgz"
-  integrity sha512-dC2C5qeWoYkxki5UAXapdjqO672AM4vZuPGRQfO8b5HKuKGBbKWpITyDYN7TOFKvRW7kOgAn3746clDBMDJyQw==
+color-string@^1.5.4:
+  version "1.5.5"
+  resolved "https://registry.yarnpkg.com/color-string/-/color-string-1.5.5.tgz#65474a8f0e7439625f3d27a6a19d89fc45223014"
+  integrity sha512-jgIoum0OfQfq9Whcfc2z/VhCNcmQjWbey6qBX0vqt7YICflUmBCh9E9CiQD5GSJ+Uehixm3NUwHVhqUAWRivZg==
   dependencies:
     color-name "^1.0.0"
     simple-swizzle "^0.2.2"
@@ -8306,10 +8306,10 @@ vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
 
-vue-template-compiler@^2.6.10:
-  version "2.6.10"
-  resolved "https://registry.npmjs.org/vue-template-compiler/-/vue-template-compiler-2.6.10.tgz"
-  integrity sha512-jVZkw4/I/HT5ZMvRnhv78okGusqe0+qH2A0Em0Cp8aq78+NK9TII263CDVz2QXZsIT+yyV/gZc/j/vlwa+Epyg==
+vue-template-compiler@^2.6.14:
+  version "2.6.14"
+  resolved "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.6.14.tgz#a2f0e7d985670d42c9c9ee0d044fed7690f4f763"
+  integrity sha512-ODQS1SyMbjKoO1JBJZojSw6FE4qnh9rIpUZn2EUT86FKizx9uH5z6uXiIrm4/Nb/gwxTi/o17ZDEGWAXHvtC7g==
   dependencies:
     de-indent "^1.0.2"
     he "^1.1.0"
@@ -8319,10 +8319,10 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npmjs.org/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
-vue@^2.6.12:
-  version "2.6.12"
-  resolved "https://registry.npmjs.org/vue/-/vue-2.6.12.tgz"
-  integrity sha512-uhmLFETqPPNyuLLbsKz6ioJ4q7AZHzD8ZVFNATNyICSZouqP2Sz0rotWQC8UNBF6VGSCs5abnKJoStA6JbCbfg==
+vue@^2.6.14:
+  version "2.6.14"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.14.tgz#e51aa5250250d569a3fbad3a8a5a687d6036e235"
+  integrity sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ==
 
 watchpack@^1.6.0:
   version "1.6.0"
@@ -8567,10 +8567,10 @@ write@1.0.3:
   dependencies:
     mkdirp "^0.5.1"
 
-ws@^6.0.0, ws@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.npmjs.org/ws/-/ws-6.2.1.tgz"
-  integrity sha512-GIyAXC2cB7LjvpgMt9EKS2ldqr0MTrORaleiOno6TweZ6r3TKtoFQWay/2PceJ3RuBasOHzXNn5Lrw1X0bEjqA==
+ws@^6.2.2, ws@^6.2.2:
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.2.tgz#dd5cdbd57a9979916097652d78f1cc5faea0c32e"
+  integrity sha512-zmhltoSR8u1cnDsD43TX59mzoMZsLKqUweyYBAIvTngR3shc0W6aOZylZmq/7hqyVxPdi+5Ud2QInblgyE72fw==
   dependencies:
     async-limiter "~1.0.0"
 
