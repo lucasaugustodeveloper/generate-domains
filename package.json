@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bootstrap": "5.1.0",
-    "core-js": "3.16.1",
+    "core-js": "3.32.2",
     "font-awesome": "4.7.0",
     "vue": "2.6.14"
   },
